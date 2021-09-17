@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Yann
 
 <!--
 **YannMjl/yannmjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##  If anything, rememeber these:
+
+> If you can't explain sometthing simply, you probably don't understand it well enough
+> 
+> > > and learning is experience; everything else is just information!
+
+
+<br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -25,9 +33,9 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannmjl&count_private=true)](https://github.com/yannmjl/github-readme-stats)
+<!-- [![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannmjl&count_private=true)](https://github.com/yannmjl/github-readme-stats) -->
 
-
+<img align="right" alt="GIF" src="./img/code.gif" width="320" height="210" />
 
 ### 🛠 &nbsp;Languages and Tools:
 
