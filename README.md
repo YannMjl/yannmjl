@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!-- [![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannmjl&count_private=true)](https://github.com/yannmjl/github-readme-stats) -->
 
-<img align="right" alt="GIF" src="./img/code.gif" width="320" height="210" />
+<img align="right" alt="GIF" src="./code.gif" width="320" height="210" />
 
 ### 🛠 &nbsp;Languages and Tools:
 
