@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannmjl)](https://github.com/yannmjl/github-readme-stats)
+[![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannmjl&count_private=true)](https://github.com/yannmjl/github-readme-stats)
 
 
 
