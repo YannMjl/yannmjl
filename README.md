@@ -87,3 +87,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 [<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][blog]
 
+<br />
+<br />
+
+### 📕 Check out My latest Blog Posts > tutorial on all the previous Technologies, Platforms and Langues
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
