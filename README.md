@@ -20,13 +20,25 @@ Here are some ideas to get you started:
 > 
 > > learning is experience; everything else is just information! * -- * Albert Einstein
 
-##### Connect with me
+##### Connect with me on:
 
 [blog]: https://yannmjl.medium.com/
 [linkedin]: https://www.linkedin.com/in/yannmjl/
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+<br />
+<br />
+
+### 📕 Check out My latest Blog Posts 
+<!-- BLOG-POST-LIST:START -->
+- [Deploying to GPC using Docker, Kubernetes, Terraform, and GitHub Actions](https://blog.devgenius.io/how-to-provision-configure-deploy-to-google-cloud-platform-97dbbe36fcde?source=rss-32bbe8f2608c------2)
+- [How to Deploy to Kubernetes & Heroku using Docker](https://blog.devgenius.io/how-to-deploy-to-kubernetes-heroku-using-docker-c2556a9584df?source=rss-32bbe8f2608c------2)
+- [How to Build and Run a NodeJS app with Docker & GitHub Actions](https://blog.devgenius.io/how-to-build-and-run-a-nodejs-app-with-docker-github-actions-59eb264dfef5?source=rss-32bbe8f2608c------2)
+- [DevSecOps using GitLab Secure](https://blog.devgenius.io/devsecops-using-gitlab-secure-6cc9bd736d40?source=rss-32bbe8f2608c------2)
+- [Provisioning vs Configuration Management with Terraform](https://blog.devgenius.io/provisioning-vs-configuration-management-with-terraform-4bf07b9c79db?source=rss-32bbe8f2608c------2)
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 <br />
@@ -86,15 +98,3 @@ Here are some ideas to get you started:
 [<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />][blog]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 [<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][blog]
-
-<br />
-<br />
-
-### 📕 Check out My latest Blog Posts > tutorial on all the previous Technologies, Platforms and Langues
-<!-- BLOG-POST-LIST:START -->
-- [Deploying to GPC using Docker, Kubernetes, Terraform, and GitHub Actions](https://blog.devgenius.io/how-to-provision-configure-deploy-to-google-cloud-platform-97dbbe36fcde?source=rss-32bbe8f2608c------2)
-- [How to Deploy to Kubernetes & Heroku using Docker](https://blog.devgenius.io/how-to-deploy-to-kubernetes-heroku-using-docker-c2556a9584df?source=rss-32bbe8f2608c------2)
-- [How to Build and Run a NodeJS app with Docker & GitHub Actions](https://blog.devgenius.io/how-to-build-and-run-a-nodejs-app-with-docker-github-actions-59eb264dfef5?source=rss-32bbe8f2608c------2)
-- [DevSecOps using GitLab Secure](https://blog.devgenius.io/devsecops-using-gitlab-secure-6cc9bd736d40?source=rss-32bbe8f2608c------2)
-- [Provisioning vs Configuration Management with Terraform](https://blog.devgenius.io/provisioning-vs-configuration-management-with-terraform-4bf07b9c79db?source=rss-32bbe8f2608c------2)
-<!-- BLOG-POST-LIST:END -->
