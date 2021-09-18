@@ -9,7 +9,7 @@
 <!-- <div align = 'right'>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</div> -->
 
 #####  If anything, rememeber this:
-> If you can't explain sometthing simply, you probably don't understand it well enough
+> If you can't explain sometthing simply, you probably don't understand it well enough <br/>
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
 ##### Connect with me on: 
