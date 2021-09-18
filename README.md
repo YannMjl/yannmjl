@@ -15,7 +15,7 @@
 > 
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
-##### Connect with me on: <div align = 'right'>![](https://komarev.com/ghpvc/?username=yannmjl&color=yellow)</div>
+##### Connect with me on: <div align = 'right'>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</div>
 [blog]: https://yannmjl.medium.com/
 [linkedin]: https://www.linkedin.com/in/yannmjl/
 
