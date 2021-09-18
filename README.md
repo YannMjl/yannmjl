@@ -1,10 +1,9 @@
-# Hi there 👋 I'm Yann 
+### Hi there 👋 I'm Yann: CIO [@ITOT Africa][itot] & Lead Senior Site Reliability Engineer [@ICF][icf] 
 
-## I'm a Brother - Friend - Traveler - Soccer Player - Writer - Model - Engineer 🖤⚽️👨🏾‍💻🎧📷🎥🌍
+#### I'm a Brother - Friend - Traveler - Soccer Player - Writer - Model - Engineer 🖤⚽️👨🏾‍💻🎧📷🎥🌍
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
-
-## CIO [@ITOT Africa][itot] & Lead Senior Site Reliability Engineer [@ICF][icf]  
+ 
 <!--
 **YannMjl/yannmjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
