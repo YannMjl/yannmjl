@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yann 
+# Hi there 👋 I'm Yann 
 
 <!--
 **YannMjl/yannmjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ####  If anything, rememeber this:
-
 > If you can't explain sometthing simply, you probably don't understand it well enough
 > 
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
 ##### Connect with me on:
-
 [blog]: https://yannmjl.medium.com/
 [linkedin]: https://www.linkedin.com/in/yannmjl/
 
@@ -29,9 +27,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
-<br />
 
-### 📕 Check out My latest Blog Posts 
+##### 📕 Check out My latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Deploying to GPC using Docker, Kubernetes, Terraform, and GitHub Actions](https://blog.devgenius.io/how-to-provision-configure-deploy-to-google-cloud-platform-97dbbe36fcde?source=rss-32bbe8f2608c------2)
 - [How to Deploy to Kubernetes & Heroku using Docker](https://blog.devgenius.io/how-to-deploy-to-kubernetes-heroku-using-docker-c2556a9584df?source=rss-32bbe8f2608c------2)
@@ -40,7 +37,6 @@ Here are some ideas to get you started:
 - [Provisioning vs Configuration Management with Terraform](https://blog.devgenius.io/provisioning-vs-configuration-management-with-terraform-4bf07b9c79db?source=rss-32bbe8f2608c------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
 <br />
 
 ### ⚙️ &nbsp;GitHub Analytics
