@@ -4,9 +4,9 @@
 [itot]: https://itot.africa/
  
 <div align = 'right'>
-<!--  <p>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</p>
- <p>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</p> -->
- <p>![Visitor Count](https://profile-counter.glitch.me/yannmjl/count.svg)</p>
+<!--  <p>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</p> -->
+ <p>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</p>
+<!--  <p>![Visitor Count](https://profile-counter.glitch.me/yannmjl/count.svg)</p> -->
 </div>
 
 
