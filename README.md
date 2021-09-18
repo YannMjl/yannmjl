@@ -1,23 +1,15 @@
-### Hi there 👋 I'm Yann: CIO [@ITOT Africa][itot]🇨🇩 & Lead Senior Site Reliability Engineer [@ICF][icf]🇺🇸 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
-
+### Hi there 👋 I'm Yann: CIO [@ITOT Africa][itot]🇨🇩 & Lead Senior Site Reliability Engineer [@ICF][icf]🇺🇸 
 #### I'm a Brother - Friend - Traveler - Soccer Player - Writer - Model - Engineer 🖤⚽️👨🏾‍💻🎧📷🎥🌍
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
  
-<!--
-**YannMjl/yannmjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = 'right'>
+ ![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)
+ ![Visitor Count](https://profile-counter.glitch.me/yannmjl/count.svg)
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ####  If anything, rememeber this:
 > If you can't explain sometthing simply, you probably don't understand it well enough
 > 
@@ -51,9 +43,6 @@ Here are some ideas to get you started:
         <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yannmjl&hide=css,html&layout=compact&langs_count=10&theme=algolia"/>
     </a>
 </p>
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)
 
 <img align="right" alt="GIF" src="./code.gif" width="320" height="210" />
 
