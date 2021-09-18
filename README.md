@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yann 
+## Hi there 👋 I'm Yann 
 
 <!--
 **YannMjl/yannmjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  If anything, rememeber this:
+####  If anything, rememeber this:
 
 > If you can't explain sometthing simply, you probably don't understand it well enough
 > 
