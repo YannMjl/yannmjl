@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
+<br />
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
