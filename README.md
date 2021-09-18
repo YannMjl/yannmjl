@@ -3,7 +3,7 @@
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
  
-<div align = 'right'>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</div>
+
 <!--  <p>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</p> -->
 <!--  <p>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</p> -->
 <!--  <p>![Visitor Count](https://profile-counter.glitch.me/yannmjl/count.svg)</p> -->
@@ -15,7 +15,7 @@
 > 
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
-##### Connect with me on:
+##### Connect with me on: <div align = 'right'>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</div>
 [blog]: https://yannmjl.medium.com/
 [linkedin]: https://www.linkedin.com/in/yannmjl/
 
