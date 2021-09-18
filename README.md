@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 > 
 > > learning is experience; everything else is just information! * -- * Albert Einstein
 
+##### Connect with me
 
-<br />
+[blog]: https://yannmjl.medium.com/
+[linkedin]: https://www.linkedin.com/in/yannmjl/
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 ### ⚙️ &nbsp;GitHub Analytics
 
