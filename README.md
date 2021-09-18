@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 > If you can't explain sometthing simply, you probably don't understand it well enough
 > 
-> > learning is experience; everything else is just information! * -- * Albert Einstein
+> 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
 ##### Connect with me on:
 
