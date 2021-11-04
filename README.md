@@ -1,5 +1,5 @@
 # Hi there! I'm Yann
-## CIO [@ITOT Africa][itot]🇨🇩 & Lead Senior Site Reliability Engineer [@ICF][icf]🇺🇸 
+## CIO [@ITOT Africa][itot]🇨🇩 & Lead Site Reliability Engineer [@ICF][icf]🇺🇸 
 ##### I'm a Brother - Friend - Traveler - Soccer Player - Writer - Model - Engineer 🖤⚽️👨🏾‍💻🎧📷🎥🌍
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
