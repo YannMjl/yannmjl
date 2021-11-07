@@ -24,11 +24,11 @@
 
 ##### 📕 Check out My latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Site Reliability Engineering “In Simple English”](https://blog.devgenius.io/what-is-site-reliability-engineering-in-simple-english-3d7164b82b6b?source=rss-32bbe8f2608c------2)
 - [Deploying to GPC using Docker, Kubernetes, Terraform, and GitHub Actions](https://blog.devgenius.io/how-to-provision-configure-deploy-to-google-cloud-platform-97dbbe36fcde?source=rss-32bbe8f2608c------2)
 - [How to Deploy to Kubernetes & Heroku using Docker](https://blog.devgenius.io/how-to-deploy-to-kubernetes-heroku-using-docker-c2556a9584df?source=rss-32bbe8f2608c------2)
 - [How to Build and Run a NodeJS app with Docker & GitHub Actions](https://blog.devgenius.io/how-to-build-and-run-a-nodejs-app-with-docker-github-actions-59eb264dfef5?source=rss-32bbe8f2608c------2)
 - [DevSecOps using GitLab Secure](https://blog.devgenius.io/devsecops-using-gitlab-secure-6cc9bd736d40?source=rss-32bbe8f2608c------2)
-- [Provisioning vs Configuration Management with Terraform](https://blog.devgenius.io/provisioning-vs-configuration-management-with-terraform-4bf07b9c79db?source=rss-32bbe8f2608c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
