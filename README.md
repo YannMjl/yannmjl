@@ -3,6 +3,12 @@
 #### I'm a Brother - Friend - Traveler - Soccer Player - Writer - Model - Engineer 🖤⚽️👨🏾‍💻🎧📷🎥🌍
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
+
+###### I'm an IT professional with a background education in Electronics, a Bachelor's degree in Computer Science and Information Technology, and a Master of Science in Software Engineering and Artificial Intelligence. 
+
+
+###### Overall experience in Site Reliability Engineering, DevOps Engineering, System Engineering, Software Engineering, Full-Stack Software Development, Cloud Computing & Architecture, Computer Networking, System Admin & automation. I also work on open-source projects related to AI, IoT, and Machine Learning.
+
  
 <!--  <p>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</p> -->
 <!--  <p>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</p> -->
