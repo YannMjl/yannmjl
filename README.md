@@ -10,7 +10,6 @@
 
 ##### Overall experience in Site Reliability Engineering, DevOps Engineering, System Engineering, Software Engineering, Full-Stack Software Development, Cloud Computing & Architecture, Computer Networking, System Admin & automation. I also work on open-source projects related to AI, IoT, and Machine Learning.
 
- 
 <!--  <p>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</p> -->
 <!--  <p>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</p> -->
 <!--  <p>![Visitor Count](https://profile-counter.glitch.me/yannmjl/count.svg)</p> -->
