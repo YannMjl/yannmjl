@@ -28,11 +28,11 @@
 
 ##### 📕 Check out My latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Run NodeJS app on AWS App Runner Using Amazon ECR](https://medium.com/geekculture/how-to-run-nodejs-app-on-aws-app-runner-using-amazon-ecr-50698436fa47?source=rss-32bbe8f2608c------2)
 - [Getting Started with Cyber Security Literacy](https://medium.com/geekculture/getting-started-with-cyber-security-literacy-6678083f677b?source=rss-32bbe8f2608c------2)
 - [How to Run a Script as a Service in Linux](https://medium.com/geekculture/how-to-run-a-script-as-a-service-in-linux-4fb92cab6818?source=rss-32bbe8f2608c------2)
 - [How to Upgrade Jenkins on Windows/Linux Server](https://medium.com/geekculture/how-to-upgrade-jenkins-on-windows-linux-server-b7d4526abc31?source=rss-32bbe8f2608c------2)
 - [How to Setup SSH for Source Code Management to Local Machine](https://blog.devgenius.io/how-to-setup-ssh-for-source-code-management-to-local-machine-d805bb2ed28b?source=rss-32bbe8f2608c------2)
-- [How to Upgrade Jira on Windows &amp; Linux Server | Part II](https://medium.com/geekculture/how-to-upgrade-jira-on-windows-linux-server-part-ii-a3c9e4b73b96?source=rss-32bbe8f2608c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
