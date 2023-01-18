@@ -4,20 +4,20 @@
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
 
-##### I'm an IT professional with a background education in Electronics, a Bachelor's degree in Computer Science and Information Technology, and a Master of Science in Software Engineering and Artificial Intelligence. 
+#### I'm an IT professional with a background education in Electronics, a Bachelor's degree in Computer Science and Information Technology, and a Master of Science in Software Engineering and Artificial Intelligence. 
 
-##### Overall experience in Site Reliability Engineering, DevOps Engineering, System Engineering, Software Engineering, Full-Stack Software Development, Cloud Computing & Architecture, Computer Networking, System Admin & automation. 
+#### Overall experience in Site Reliability Engineering, DevOps Engineering, System Engineering, Software Engineering, Full-Stack Software Development, Cloud Computing & Architecture, Computer Networking, System Admin & automation. 
 
 <!--  <p>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</p> -->
 <!--  <p>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</p> -->
 <!--  <p>![Visitor Count](https://profile-counter.glitch.me/yannmjl/count.svg)</p> -->
 <!-- <div align = 'right'>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</div> -->
 
-#####  If anything, rememeber this:
+####  If anything, rememeber this:
 > If you can't explain something simply, you probably don't understand it well enough <br/>
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
-##### Connect with me on: 
+#### Connect with me on: 
 [blog]: https://yannmjl.medium.com/
 [linkedin]: https://www.linkedin.com/in/yannmjl/
 
@@ -26,7 +26,7 @@
 
 <br />
 
-##### 📕 Check out My latest Blog Posts 
+#### 📕 Check out My latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [How to Integrate Jenkins &amp; Multiple Github Repo using SSH Keys](https://medium.com/geekculture/how-to-integrate-jenkins-multiple-github-repo-using-ssh-keys-644fb8aac548?source=rss-32bbe8f2608c------2)
 - [What is the Internet? “In Simple English”](https://medium.com/geekculture/what-is-the-internet-in-simple-english-b26d1d1a7a73?source=rss-32bbe8f2608c------2)
