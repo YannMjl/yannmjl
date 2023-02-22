@@ -1,5 +1,5 @@
 # Hello! I'm Yann
-## CIO [@ITOT][itot] & Senior Site Reliability Engineer [@ICF][icf]
+## Co-Founder & CIO [@ITOT][itot] | Senior Site Reliability Engineer [@ICF][icf]
 
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
