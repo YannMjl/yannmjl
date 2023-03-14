@@ -17,7 +17,7 @@
 > If you can't explain something simply, you probably don't understand it well enough <br/>
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
-#### Connect with me on: 
+### Connect with me on: 
 [blog]: https://yannmjl.medium.com/
 [linkedin]: https://www.linkedin.com/in/yannmjl/
 
@@ -26,7 +26,7 @@
 
 <br />
 
-#### 📕 Check out My latest Blog Posts 
+### 📕 Check out My latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [How to Integrate Jenkins &amp; Multiple Github Repo using SSH Keys](https://medium.com/geekculture/how-to-integrate-jenkins-multiple-github-repo-using-ssh-keys-644fb8aac548?source=rss-32bbe8f2608c------2)
 - [What is the Internet? “In Simple English”](https://medium.com/geekculture/what-is-the-internet-in-simple-english-b26d1d1a7a73?source=rss-32bbe8f2608c------2)
