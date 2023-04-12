@@ -17,7 +17,7 @@
 > If you can't explain something simply, you probably don't understand it well enough <br/>
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
-### Connect with me on: 
+#### Connect with me on: 
 [blog]: https://yannmjl.medium.com/
 [linkedin]: https://www.linkedin.com/in/yannmjl/
 
