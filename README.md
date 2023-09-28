@@ -1,4 +1,4 @@
-# Hello! I'm Yann
+# Hello! I'm Yann🙂
 ## Co-Founder & CIO [@ITOT][itot] | Senior Site Reliability Engineer [@ICF][icf]
 
 [icf]: https://www.icf.com/
@@ -6,14 +6,14 @@
 
 #### I'm an IT professional with a background education in Electronics, a Bachelor's degree in Computer Science and Information Technology, and a Master of Science in Software Engineering and Artificial Intelligence. 
 
-#### Overall experience in Site Reliability Engineering, DevOps Engineering, System Engineering, Software Engineering, Full-Stack Software Development, Cloud Computing & Architecture, Computer Networking, System Admin & automation. 
+#### Overall experience in Site Reliability Engineering, DevOps Engineering, System Engineering, Software Engineering, Full-Stack Software Development, Cloud Computing and architecture, Computer Networking, System Admin & automation. 
 
 <!--  <p>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</p> -->
 <!--  <p>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</p> -->
 <!--  <p>![Visitor Count](https://profile-counter.glitch.me/yannmjl/count.svg)</p> -->
 <!-- <div align = 'right'>![](https://visitor-badge.laobi.icu/badge?page_id=yannmjl.yannmjl)</div> -->
 
-####  If anything, rememeber this:
+####  If anything, remember this:
 > If you can't explain something simply, you probably don't understand it well enough <br/>
 > 'coz learning is experience; everything else is just information! * -- * Albert Einstein
 
@@ -26,7 +26,7 @@
 
 <br />
 
-### 📕 Check out My latest Blog Posts 
+### 📕 Check out My Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [What is Apache Kafka “In Simple English”](https://blog.devgenius.io/what-is-apache-kafka-in-simple-english-cf52d57fdb8d?source=rss-32bbe8f2608c------2)
 - [How to Integrate Jenkins &amp; Multiple Github Repo using SSH Keys](https://medium.com/geekculture/how-to-integrate-jenkins-multiple-github-repo-using-ssh-keys-644fb8aac548?source=rss-32bbe8f2608c------2)
