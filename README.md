@@ -1,4 +1,4 @@
-# Hello! I'm Yann🙂
+# Hello! I'm Yann 🙂
 ## Co-Founder & CIO [@ITOT][itot] | Senior Site Reliability Engineer [@ICF][icf]
 
 [icf]: https://www.icf.com/
