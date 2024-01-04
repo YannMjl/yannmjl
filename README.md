@@ -1,9 +1,10 @@
 # Hello! I'm Yann 🙂
 
-## Co-Founder & CIO [@ITOT][itot] | Senior Site Reliability Engineer [@ICF][icf]
+## Co-Founder & CIO [@ITOT][itot]  | Senior Site Reliability Engineer [@ICF][icf]
 
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
+[itotusa]: https://itotusa.com/
 
 #### I'm an IT professional with a background education in Electronics, a Bachelor's degree in Computer Science and Information Technology, and a Master of Science in Software Engineering and Artificial Intelligence. 
 
