@@ -30,11 +30,11 @@
 
 ### 📕 Check out My Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to AWS Monitoring &amp; Messages Processing Tool](https://blog.devgenius.io/intro-to-aws-monitoring-messages-processing-tool-3be499f7bf52?source=rss-32bbe8f2608c------2)
 - [What is Apache Kafka “In Simple English”](https://blog.devgenius.io/what-is-apache-kafka-in-simple-english-cf52d57fdb8d?source=rss-32bbe8f2608c------2)
 - [How to Integrate Jenkins &amp; Multiple Github Repo using SSH Keys](https://medium.com/geekculture/how-to-integrate-jenkins-multiple-github-repo-using-ssh-keys-644fb8aac548?source=rss-32bbe8f2608c------2)
 - [What is the Internet? “In Simple English”](https://medium.com/geekculture/what-is-the-internet-in-simple-english-b26d1d1a7a73?source=rss-32bbe8f2608c------2)
 - [How to Run NodeJS app on AWS App Runner Using Amazon ECR](https://medium.com/geekculture/how-to-run-nodejs-app-on-aws-app-runner-using-amazon-ecr-50698436fa47?source=rss-32bbe8f2608c------2)
-- [Getting Started with Cyber Security Literacy](https://medium.com/geekculture/getting-started-with-cyber-security-literacy-6678083f677b?source=rss-32bbe8f2608c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
