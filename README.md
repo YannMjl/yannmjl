@@ -1,6 +1,6 @@
 # Hello! I'm Yann 🙂
 
-## Co-Founder & CIO [@ITOT][itot]  | Senior Site Reliability Engineer [@ICF][icf]
+## Chief Information Officer [@ITOT][itot]  | Senior Site Reliability Engineer [@ICF][icf]
 
 [icf]: https://www.icf.com/
 [itot]: https://itot.africa/
